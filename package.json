@@ -2,6 +2,7 @@
   "name": "amplify-auth-react",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://d1u40gyqxkw7xg.cloudfront.net",
   "dependencies": {
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
